@@ -4,3 +4,8 @@ body {
 p {
     background-color: green;
 }
+
+footer {
+    padding: 50px;
+    background-color: #ccc;
+}
